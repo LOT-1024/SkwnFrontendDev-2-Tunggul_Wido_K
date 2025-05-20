@@ -2,6 +2,9 @@
 
 Project ini dibangun menggunakan [Bun](https://bun.sh) – sebuah runtime JavaScript modern yang cepat dan efisien.
 
+## DEMO APP
+[Aplikasi Finance](https://skwn-frontend-dev-2-tunggul-wido-k.vercel.app/)
+
 ## 📦 Prasyarat
 
 Pastikan kamu sudah menginstal:
